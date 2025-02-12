@@ -4,7 +4,7 @@ export default function CarsCreate(){
     return(
         <>
         <Navbar/>
-        <h3><a href="cars_list.html" class="btn btn-secondary">Go Back</a>Add Car</h3>
+        <h3><a href="/" class="btn btn-primary">Go Back</a>Add Car</h3>
     <div class="container">
       <div class="form-group mb-3">
         <label for="number" class="form-label">Car Number:</label>

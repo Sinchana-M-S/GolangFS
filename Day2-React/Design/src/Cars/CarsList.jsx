@@ -22,14 +22,14 @@ export default function CarsList(){
                 <td>KA091231</td>
                 <td>Zen</td>
                 <td>Small car</td>
-                <td><a class="btn btn-success" href="cars_view.html?car1">view</a></td>
+                <td><a class="btn btn-success" href="/cars/view?id=car1">View</a></td>
               </tr>
               <tr>
                 <th scope="row">2</th>
                 <td>KA093211</td>
                 <td>Beatle</td>
                 <td>Big car</td>
-                <td><a class="btn btn-success" href="cars_view.html?car2">view</a></td>
+                <td><a class="btn btn-success" href="/cars/view?id=car2">View</a></td>
               </tr>
             </tbody>
           </table>
